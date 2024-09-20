@@ -424,7 +424,7 @@ Cpp代码规范遵循官方指导规范：
 *   使用带有Experience拓展的GameMode，只需动态替换Experience内数据即可实现对于地图，UI，玩家输入，角色技能以及一些游戏规则等自定义的配置
     
 
-![客户端架构标准文档-流程图](C:\Users\Administrator\Desktop\客户端架构标准文档-流程图.jpg)
+![客户端架构标准文档-流程图](Image\客户端架构标准文档-流程图.jpg)
 
 ++在编辑器内点击Play按键直到BeginPlay()执行流程中的GameMode的关键初始化时序图++
 
